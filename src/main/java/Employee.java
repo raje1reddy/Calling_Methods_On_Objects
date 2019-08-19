@@ -1,5 +1,4 @@
-class Employee {
-    private String name;
+
     int age;      //object fields
     Employee() {
         age = 22; //assign value to age
@@ -10,4 +9,4 @@ class Employee {
     public void printEmp(){
         System.out.println("name " + name + "age" +  "" +age );
     }
-}
+
